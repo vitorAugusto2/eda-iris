@@ -39,4 +39,4 @@ normal.
 
 ## 9. Gráfico do teste de normalidade junto com o histograma
 * Os gráficos de histograma são plotados novamente junto com as curvas de distribuição para visualizar a normalidade dos
-* dados.
+dados.
